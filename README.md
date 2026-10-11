@@ -1,2 +1,2 @@
 # Riftborn-Legion-TD
-sdsa
+Official privacy policy for Riftborn Legion TD, an Android tower defense game developed by Kresna Labs.
